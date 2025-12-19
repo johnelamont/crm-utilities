@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "targets": [
+      "crm_utilities_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}
